@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: app2
-  description: An example of a Backstage application.
+  name: rellygood
+  description: good sample hurray
   annotations:
     circleci.com/project-slug: 'github/wonjoyoo/nginx'
   # Example for optional annotations
