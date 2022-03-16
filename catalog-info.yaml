@@ -1,10 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: rellygood
+  name: gitlab_project
   description: good sample hurray
   annotations:
-    circleci.com/project-slug: 'github/wonjoyoo/nginx'
+    gitlab.com/project-id: '25929427'
   # Example for optional annotations
   # annotations:
   #   github.com/project-slug: backstage/backstage
